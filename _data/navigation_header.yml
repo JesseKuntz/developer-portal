@@ -17,10 +17,13 @@ left:
   - title: Live App
     url: /docs/live-app/start-here
 
-  - title: Tools
-    dropdown:
-    - title: Emulator
-      url: /docs/speculos/introduction
+  - title: Ledger Connect
+    url: /docs/connect/introduction
+
+  # - title: Tools
+  #   dropdown:
+  #   - title: Emulator
+  #     url: /docs/speculos/introduction
 
   - title: Integration Stories
     url: https://blog.ledger.com/tag/stories/
