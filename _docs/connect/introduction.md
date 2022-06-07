@@ -22,9 +22,9 @@ We will soon be publishing a section on our Developer Portal about Ledger Connec
 
 Connect injects a web3 provider (EIP-1193) similar other extensions and supports the same APIs.
 
-- Step 1: Look for ethereum.isLedgerConnect to determine if the user has the extension.
+1. Look for ethereum.isLedgerConnect to determine if the user has the extension.
 
-- Step 2: Call common ethereum apis.
+2. Call common ethereum apis.
 
 ## APIs
 
