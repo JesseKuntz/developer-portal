@@ -15,8 +15,8 @@ We will soon be publishing a section on our Developer Portal about Ledger Connec
 
 ## Blockchains & Networks supported
 
-Ethereum
-Solana
+- Ethereum
+- Solana
 
 ### Details on Ethereum
 
